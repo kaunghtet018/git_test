@@ -7,6 +7,7 @@ public class MainSection {
 
 		System.out.println("This is git test.");
 		System.out.println("This is git updated");
+		System.out.println("Test to remote server");
 	}
 
 }
